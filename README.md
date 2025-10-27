@@ -2,8 +2,8 @@
 
 
 - ✨ I'm JavRip from Spain.
-- 😄 I am an RPA Developer with basic programming knowledge.
-- 🌱 I’m currently learning BluePrism, C# and Python.
+- 😄 I am an RPA Developer.
+- 🌱 I’m currently studying to become a DevOps Engineer.
 
 
 <br>**_Languages, Tools and Skills:_**<br>
