@@ -2,7 +2,6 @@
 
 
 - ✨ I'm JavRip from Spain.
-- 😄 I am an RPA Developer.
 - 🌱 I’m currently studying to become a DevOps Engineer.
 
 
