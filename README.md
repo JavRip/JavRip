@@ -9,4 +9,4 @@
 
 <br>**_Languages, Tools and Skills:_**<br>
 
-[![My Skills](https://skillicons.dev/icons?i=git,docker,kubernetes,aws,azure,terraform,ansible,jenkins,argocd,python,mysql,uipath,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,docker,kubernetes,aws,azure,terraform,ansible,jenkins,django,python,mysql,vscode,ubuntu)](https://skillicons.dev)
